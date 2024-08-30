@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Express js**
 
-- 💬 Ask me about **MERN Stack, JavaScript, React**
+- 💬 Ask me about **MERN Stack, JavaScript, React , Node js**
 
 - 📫 How to reach me **mominibrahim98.im85@gmail.com**
 
