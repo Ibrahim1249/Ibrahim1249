@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Express js / Moongo/DB**
 
-- 💬 Ask me about **MERN Stack, JavaScript, React , Node js**
+- 💬 Ask me about **MERN Stack, JavaScript, React , Node js , ExpressJS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ibrahim-portfolio-lac.vercel.app/)
 
